@@ -9,7 +9,7 @@
  * following line.
  *   cppcheck-suppress nullPointer
  */
-
+int i;
 
 /* Create an empty queue */
 struct list_head *q_new()
